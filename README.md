@@ -23,3 +23,4 @@
 <br>
 <p>Signal processing involves converting or transforming data in a way that allows us to see things in it that are not possible via direct observation. Signal processing allows engineers and scientists to analyze, optimize, and correct signals, including scientific data, audio streams, images, and video.</p>
 <p>Filtering is one of the most basic and important signal processing techniques. It has been used since the very beginning of the analog recording, to enhance our ability to see the true signal by suppressing “noise” and other interferences. Filtering was (and is) used for applications from adjusting the bass and treble response of your music player to adjusting the channel frequency of a radio, and improving sound quality on telephone lines.</p>
+<img src="image-desc.png"><hr>
