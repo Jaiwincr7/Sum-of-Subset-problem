@@ -16,7 +16,7 @@
 <p>Business can use Sum of Subset to analysis their growth as well as the downfall in the particular given duration i.e yearly, monthly, daily.</p>
 <br>
 <p>Here is a example of the yearly grown of the Company ABC</p><hr>
-<h4>Screenshots</h4><img src="image.png"><hr>
+<h4>Screenshots</h4><img src="image--2.png"><hr>
 <p>In above example company made a profit from 1st month to the 11th month of the year. The maximum profit from the respective months was 5,06,300.
 <hr>
 <h3>2)Signal Processing</h3>
