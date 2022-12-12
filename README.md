@@ -12,10 +12,11 @@
 <b>Time Complexity</b>- Time Complexity for the Sum of Subset is O(n)
 <hr>
 <h2>Application:-</h2>
-<h3>1)Business analysis</h3>
-<p>Business can use Sum of Subset to analysis their growth as well as the downfall in the particular given duration i.e yearly, monthly, daily.</p>
+<h3>1)Computer passwords</h3>
+<p>A computer needs to verify a user's identity before allowing him or her access to an account. The simplest system would have the machine keep a copy of the password in an internal file, and compare it with what the user types. A drawback is that anyone who sees the internal file could later impersonate the user.
+I believe this alternative is actually implemented on some systems: the computer generates a large number (say 500) of $a_i$. They are stored in the internal file. A password is a subset of $\{1,\dots,500\}$. (in practice, there is a program to convert a normal sequence-of-symbols password to such a subset.) Instead of having the password for the user, the computer keeps the total associated with the appropriate subset. When the user types in the subset, the computer tests whether the total is correct. It does not keep a record of the subset. Thus impersonation is possible only if somebody can reconstruct the subset knowing the $a_i$ and the total.</p>
 <br>
-<p>Here is a example of the yearly grown of the Company ABC</p><hr>
+<p>Here is a example of the Computer testing the password:-</p><hr>
 <h4>Screenshots</h4><img src="image-2.png"><hr>
 <p>In above example company made a profit from 6th month to the 9th month of the year. The maximum profit from the respective months was 2,10,000.
 <hr>
